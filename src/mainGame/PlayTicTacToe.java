@@ -13,7 +13,7 @@ public class PlayTicTacToe {
 	}
 	
 	public static void playGame() {
-//		global variables that keep track of game state
+//		global variables that keep track of game state p
 		int turn = (int) Math.round(Math.random());
 		Character letter = 'Z';
 		boolean endGame = false;
